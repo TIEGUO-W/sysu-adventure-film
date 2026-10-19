@@ -1,0 +1,12 @@
+# dependencies (linked from the reference project, 693 MB)
+node_modules/
+
+# render artefacts that can be regenerated from src/
+out/*.mp4
+out/*.wav
+out/final_sheet.png
+
+# os / tooling noise
+.DS_Store
+*.log
+.remotion/
